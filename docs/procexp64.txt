@@ -1,0 +1,115 @@
+﻿Process	CPU	Private Bytes	Working Set	PID	Description	Company Name
+System Idle Process	44.79	52 K	8 K	0		
+System	2.73	156 K	140 K	4		
+ Interrupts	0.78	0 K	0 K	n/a	Hardware Interrupts and DPCs	
+ smss.exe		448 K	1,200 K	300	Windows Session Manager	Microsoft Corporation
+ Memory Compression	< 0.01	104 K	7,212 K	1720		
+csrss.exe	0.10	1,688 K	4,920 K	404	Client Server Runtime Process	Microsoft Corporation
+wininit.exe		1,276 K	6,356 K	508	Windows Start-Up Application	Microsoft Corporation
+ services.exe	0.05	4,468 K	9,092 K	644	Services and Controller app	Microsoft Corporation
+  svchost.exe		944 K	3,956 K	744	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	8,720 K	23,960 K	840	Host Process for Windows Services	Microsoft Corporation
+   WmiPrvSE.exe		8,676 K	17,852 K	4476	WMI Provider Host	Microsoft Corporation
+   ShellExperienceHost.exe	Suspended	28,704 K	80,236 K	4348	Windows Shell Experience Host	Microsoft Corporation
+   RuntimeBroker.exe	< 0.01	4,040 K	22,356 K	4180	Runtime Broker	Microsoft Corporation
+   SearchUI.exe	Suspended	90,468 K	146,056 K	5128	Search and Cortana application	Microsoft Corporation
+   RuntimeBroker.exe		7,368 K	25,944 K	5312	Runtime Broker	Microsoft Corporation
+   SkypeBackgroundHost.exe	Suspended	1,816 K	10,592 K	5744	Microsoft Skype	Microsoft Corporation
+   dllhost.exe		1,960 K	9,860 K	6136	COM Surrogate	Microsoft Corporation
+   RuntimeBroker.exe	< 0.01	8,268 K	31,464 K	4992	Runtime Broker	Microsoft Corporation
+   SystemSettings.exe	0.22	20,560 K	65,832 K	3676	Settings	Microsoft Corporation
+   ApplicationFrameHost.exe		7,556 K	26,908 K	3632	Application Frame Host	Microsoft Corporation
+   WmiPrvSE.exe		10,552 K	17,600 K	6728	WMI Provider Host	Microsoft Corporation
+   smartscreen.exe		14,120 K	36,504 K	4284	Windows Defender SmartScreen	Microsoft Corporation
+  svchost.exe	0.16	5,660 K	11,908 K	892	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	< 0.01	2,176 K	7,320 K	940	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	8,748 K	17,956 K	716	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,312 K	5,492 K	368	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,052 K	9,696 K	936	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,824 K	11,276 K	1036	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,920 K	10,232 K	1120	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		16,748 K	19,504 K	1168	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.01	4,104 K	8,292 K	1196	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,128 K	7,340 K	1252	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.14	5,632 K	14,796 K	1304	Host Process for Windows Services	Microsoft Corporation
+   taskhostw.exe		5,536 K	15,384 K	3536	Host Process for Windows Tasks	Microsoft Corporation
+   MusNotification.exe	0.44	1,448 K	5,400 K	3580	MusNotificationBroker	Microsoft Corporation
+  svchost.exe		2,712 K	10,916 K	1336	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,240 K	8,892 K	1376	Host Process for Windows Services	Microsoft Corporation
+   sihost.exe		5,556 K	24,364 K	3468	Shell Infrastructure Host	Microsoft Corporation
+  svchost.exe		4,092 K	11,028 K	1468	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,176 K	8,292 K	1520	Host Process for Windows Services	Microsoft Corporation
+  vmacthlp.exe		1,556 K	6,544 K	1540	VMware Activation Helper	VMware, Inc.
+  svchost.exe	1.22	65,644 K	74,116 K	1592	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,280 K	5,788 K	1600	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,824 K	9,028 K	1608	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,648 K	8,628 K	1732	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,780 K	8,120 K	1764	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,752 K	7,832 K	1816	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,936 K	9,376 K	1824	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,020 K	12,272 K	1960	Host Process for Windows Services	Microsoft Corporation
+   audiodg.exe		6,292 K	11,604 K	7028	Windows Audio Device Graph Isolation 	Microsoft Corporation
+  svchost.exe	< 0.01	3,712 K	11,284 K	2028	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,932 K	7,272 K	1572	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,548 K	6,180 K	1888	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,252 K	8,172 K	1980	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,176 K	11,456 K	2080	Host Process for Windows Services	Microsoft Corporation
+  spoolsv.exe		5,300 K	14,392 K	2152	Spooler SubSystem App	Microsoft Corporation
+  svchost.exe	0.01	10,736 K	19,872 K	2236	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,016 K	8,244 K	2288	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,568 K	11,764 K	2304	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.04	3,160 K	11,108 K	2440	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	0.19	8,624 K	26,592 K	2448	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		12,216 K	19,664 K	2456	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,708 K	14,048 K	2464	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,540 K	6,596 K	2520	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,284 K	5,552 K	2544	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,400 K	9,052 K	2564	Host Process for Windows Services	Microsoft Corporation
+  vmtoolsd.exe	0.03	8,876 K	21,236 K	2580	VMware Tools Core Service	VMware, Inc.
+  svchost.exe		4,680 K	20,372 K	2616	Host Process for Windows Services	Microsoft Corporation
+  VGAuthService.exe		3,244 K	10,572 K	2628	VMware Guest Authentication Service	VMware, Inc.
+  SecurityHealthService.exe		4,156 K	15,992 K	2748	Windows Security Health Service	Microsoft Corporation
+  MsMpEng.exe	1.64	156,004 K	211,328 K	2828	Antimalware Service Executable	Microsoft Corporation
+  svchost.exe		1,280 K	5,480 K	3012	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	6.22	43,396 K	70,708 K	3064	Host Process for Windows Services	Microsoft Corporation
+   wuauclt.exe	35.13	104,360 K	114,884 K	6172	Windows Update	Microsoft Corporation
+  NisSrv.exe		5,488 K	9,596 K	3212	Microsoft Network Realtime Inspection Service	Microsoft Corporation
+  svchost.exe		2,924 K	12,564 K	3480	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe	< 0.01	5,916 K	26,732 K	3504	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,724 K	7,952 K	3688	Host Process for Windows Services	Microsoft Corporation
+   ctfmon.exe	0.30	3,048 K	14,088 K	3748	CTF Loader	Microsoft Corporation
+  svchost.exe		3,148 K	14,324 K	4048	Host Process for Windows Services	Microsoft Corporation
+  dllhost.exe		3,820 K	13,136 K	4380	COM Surrogate	Microsoft Corporation
+  msdtc.exe		3,076 K	10,380 K	4572	Microsoft Distributed Transaction Coordinator Service	Microsoft Corporation
+  svchost.exe		4,472 K	15,468 K	5164	Host Process for Windows Services	Microsoft Corporation
+  SearchIndexer.exe	0.07	33,384 K	39,844 K	6428	Microsoft Windows Search Indexer	Microsoft Corporation
+   SearchProtocolHost.exe		2,480 K	8,924 K	7880	Microsoft Windows Search Protocol Host	Microsoft Corporation
+  svchost.exe	0.03	19,512 K	28,588 K	4100	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,412 K	13,240 K	1872	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,024 K	7,388 K	6228	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,496 K	5,716 K	6660	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		3,804 K	9,144 K	5724	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,036 K	8,512 K	2924	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,784 K	12,028 K	7980	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,412 K	6,140 K	4816	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		10,016 K	21,252 K	4156	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		1,376 K	5,956 K	1416	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		4,224 K	13,564 K	5884	Host Process for Windows Services	Microsoft Corporation
+  svchost.exe		2,300 K	8,184 K	6552	Host Process for Windows Services	Microsoft Corporation
+ lsass.exe	0.07	5,844 K	15,564 K	652	Local Security Authority Process	Microsoft Corporation
+ fontdrvhost.exe		1,332 K	3,980 K	784	Usermode Font Driver Host	Microsoft Corporation
+csrss.exe	0.33	1,860 K	5,020 K	516	Client Server Runtime Process	Microsoft Corporation
+winlogon.exe		2,432 K	10,048 K	580	Windows Logon Application	Microsoft Corporation
+ fontdrvhost.exe		2,184 K	8,008 K	776	Usermode Font Driver Host	Microsoft Corporation
+ dwm.exe	1.39	60,160 K	98,520 K	996	Desktop Window Manager	Microsoft Corporation
+explorer.exe	0.06	42,304 K	118,508 K	3520	Windows Explorer	Microsoft Corporation
+ MSASCuiL.exe		1,852 K	9,552 K	6584	Windows Defender notification icon	Microsoft Corporation
+ vmtoolsd.exe	0.04	7,228 K	21,448 K	6704	VMware Tools Core Service	VMware, Inc.
+ OneDrive.exe		24,916 K	64,176 K	6768	Microsoft OneDrive	Microsoft Corporation
+ firefox.exe	0.05	122,692 K	198,892 K	6904	Firefox	Mozilla Corporation
+  firefox.exe		41,552 K	97,220 K	7484	Firefox	Mozilla Corporation
+  firefox.exe		15,608 K	52,928 K	7796	Firefox	Mozilla Corporation
+  firefox.exe	0.01	50,976 K	119,836 K	8008	Firefox	Mozilla Corporation
+  firefox.exe		12,200 K	39,580 K	7200	Firefox	Mozilla Corporation
+ procexp64.exe	4.18	22,428 K	57,724 K	6940	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com
+
