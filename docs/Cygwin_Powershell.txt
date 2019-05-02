@@ -1,0 +1,34 @@
+Installing Cygwin | Using Cygwin with Powershell
+
+1.] Install Cygwin: https://www.cygwin.com/setup-x86_64.exe
+    
+    Use default installation settings. [Recommended Pacakge Download Site: http://cygwin.osuosl.org]
+
+    Install the latest stable version of the following packages:
+        (Change to 32bit package variations if needed)
+        cygwin32-gcc-g++
+        gcc-g++
+        mingw64-x86_64-gcc-g++
+        mingw64-x86_64-libsigc++2.0
+        (Feel free to install nano or vim, if desired)
+
+    Reboot.
+
+2.] Test Cygwin
+
+    Run the Cygwin terminal. Enter "c++" and "g++". (The error should be something to do with lack of further input.)
+
+    Feel free to create and compile a .cpp file to ensure it is working entirely.
+
+3.] Integrate into Powershell
+
+    Find your way to the Environment Variables. (Windows search should work.)
+
+    Edit the User's PATH(or Path) Variable.
+        Add a "New" line, which points to your Cygwin binaries directory. 
+        (Default: C:\cygwin64\bin)
+
+    Reboot.
+
+    Powershell should now use any packages/commands used by Cygwin. (This means any package you add to Cygwin will also be available to execute in Powershell.)
+
