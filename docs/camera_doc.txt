@@ -1,0 +1,18 @@
+For anything and everything relating to the camera, the username will either be:
+'Administrator' or 'admin'
+and the password will be:
+'NASA1961'
+
+The bench camera's current IP is 10.183.100.11. Camera configuration may be accessed from this address.
+The server host is based on 10.183.100.1, with FTP on port 21.
+The camera is configured to FTP push an image capture every second, on a schedule between 8:00 to 14:30.
+
+Should you no longer be able to connect or login to the camera, you will need to reset it with these steps.
+    Disconnect the power supply.
+    Press and hold the reset button.
+    Keep holding the reset button and restore the power supply.
+    Continue to hold the reset button for a further 10 seconds.
+    Release the button and allow the camera to complete a restart/reboot.
+    
+You may wish to accompany this setup with a secondary client that automatically logins to the FTP server and pulls/sorts these images accordingly.
+Just as well, you may wish to have the FTP Server set to delete its files once this is done, as the volume of images takes considerable space.
