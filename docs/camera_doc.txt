@@ -5,6 +5,7 @@ and the password will be:
 
 The bench camera's current IP is 10.183.100.11. Camera configuration may be accessed from this address.
 (Live feed requires an extension not used in modern browsers, use Internet Explorer to view.)
+NOTE: Any client attempting to access the address must be on the same subnet. (Currently 255.255.0.0)
 The server host is based on 10.183.100.1, with FTP on port 21.
 The camera is configured to FTP push an image capture every second, on a schedule between 8:00 to 14:30.
 
